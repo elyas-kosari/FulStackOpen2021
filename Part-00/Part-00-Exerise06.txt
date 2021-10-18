@@ -1,0 +1,2 @@
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note
+server->browser: HTML-code which reloads the notes page with 201 status code
